@@ -1,0 +1,4 @@
+[
+  { "id": 1, "title": "Happy Friday!", "content": "This is the first post of my app!", "authorId": 1 },
+  { "id": 2, "title": "Per Scholas", "content": "The  SBA is due this Friday", "authorId": 2 }
+]
